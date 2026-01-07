@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Neon Racer AI",
+  "description": "An arcade-style 2D car racing game with a futuristic neon aesthetic and a real-time Gemini-powered Race Engineer to guide your performance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
